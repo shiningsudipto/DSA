@@ -22,3 +22,12 @@ int main(){
 - cout is like print/console
 - cpp case sensitive
 - **';'** means ending like JS
+
+```
+g++ file-name.cpp
+<!-- It will create a executable file, ex: a.exe -->
+<!-- Run that executable file for output -->
+./a.exe
+<!-- both at the same time -->
+g++ file-name.cpp && ./a.exe
+```
