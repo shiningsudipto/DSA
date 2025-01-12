@@ -64,3 +64,5 @@ g++ file-name.cpp && ./a.exe
   - 1 Bit
 - **double**
   - double or float numbers
+
+### Type Casting
