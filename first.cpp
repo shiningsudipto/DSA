@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
 
-int main(){
-    cout << "Apna College";
-}
+// int main(){
+//     cout << "Apna College";
+// }
 
 int main(){
     double price;

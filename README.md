@@ -40,6 +40,8 @@ g++ file-name.cpp && ./a.exe
   <!-- or -->
   cout << "Apna College\n";
   ```
+  - **cin** to take value from user
+  - cin >> variableName (store value to the variable)
 
 ### Data Types
 
