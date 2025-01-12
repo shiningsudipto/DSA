@@ -68,3 +68,21 @@ g++ file-name.cpp && ./a.exe
   - double or float numbers
 
 ### Type Casting
+
+- ex: (type)value
+
+### Operators
+
+- Arithmetic ("+", "-", "\*"(Asterisk), "/", "%"(Modulo))
+- Relational (<, <=, >, >=, == , !=)
+- Logical (OR ||, AND &&, NOT !)
+
+### Unary Operator
+
+- 1
+- Increment ++
+- Decrement --
+
+### Binary Operator
+
+- 2
