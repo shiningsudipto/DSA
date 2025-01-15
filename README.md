@@ -86,3 +86,7 @@ g++ file-name.cpp && ./a.exe
 ### Binary Operator
 
 - 2
+
+---
+
+- variables name should be in Camelcase
