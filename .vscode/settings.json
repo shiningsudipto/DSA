@@ -4,6 +4,7 @@
     "*.ndjson": "jsonl",
     "*.dbclient-js": "javascript",
     "*.css": "tailwindcss",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "ostream": "cpp"
   }
 }
