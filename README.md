@@ -90,3 +90,17 @@ g++ file-name.cpp && ./a.exe
 ---
 
 - variables name should be in Camelcase
+
+### Function
+
+```
+<!-- definition -->
+returnType functionName(){
+  <!-- codes -->
+}
+returnType functionName(type argumentName, type argumentName){
+  <!-- codes -->
+}
+```
+
+- If function does not return anything then the type will be **void**
